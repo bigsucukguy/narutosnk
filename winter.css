@@ -1,0 +1,363 @@
+.nav {
+    color: #4A4A4A;
+}
+
+.gen, .genmed, .gensmall {
+    color: #4A4A4A;
+}
+
+.topictitle, h1, h2 {
+    color: #4A4A4A;
+}
+
+th {
+    color: #4A4A4A;
+}
+
+.themenbeschreibung {
+    color: #4A4A4A;
+}
+
+  td.row2{background-color:#B3B3B3}
+
+.postdetails {
+    color: #4A4A4A;
+}
+
+#content-container div#left {
+   background-color: #bfbfbf;
+   border-right: 5px solid #212121;
+   border-left: 5px solid #212121;
+}
+
+.column {
+   background-color: #bfbfbf;
+   border-right: 5px solid #212121;
+   border-left: 5px solid #212121;
+}
+
+#logo
+{
+  background: url(http://abload.de/img/winterhead8tlj4.png) no-repeat scroll center 10px;
+}
+
+.module-title {
+color: #688dad;
+border-bottom: 2px solid #212121;
+text-shadow: #000000 1px 1px 0px;
+background-image: url(http://abload.de/img/gromodulbghroe5.png);
+}
+
+
+/* NAVIGATION */
+
+.meganav {
+  background: url('http://abload.de/img/navbarscrolls2slb.png') no-repeat;
+}
+
+.meganav a.mainmenu {
+  text-shadow: 0px 0px 1px #fefefe;
+}
+
+.meganav a.mainmenu:hover {
+     text-shadow: 1px 0 1px #000;
+}
+
+/* SUCHE */
+#search_menu {background-color: #1d1d1d;}
+
+/* TOOLBAR */
+#fa_toolbar #notif_unread {
+  color: #688dad !important;
+}
+#fa_right.welcome #fa_menu #fa_welcome, #fa_right.notification > #fa_notifications {
+  background-color: #0d0d0d !important;
+  color: #688dad !important;
+}
+#fa_toolbar #fa_menulist {
+  background-color: #0d0d0d;
+}
+
+/* LINKS */
+a:link,a:active,a:visited{text-decoration: none !important;
+color: #000000; text-shadow: 1px 1px 0px #828080;}
+a:hover{text-decoration:none!important;text-shadow:1px 1px 0 #fff; color:#688dad;}
+
+
+/* CHATBOX */
+#chatbox_header {
+background-color: #000000;
+  color: #b1b1b1;
+}
+
+#chatbox_header .catBottom .cattitle {color: #b1b1b1;}
+
+#chatbox_header .chatbox-options .genmed,
+#chatbox_header .chatbox-options,
+#chatbox_header .chatbox-options a {
+    color: #b1b1b1;
+}
+
+#chatbox_members {background-color: #191817;}
+
+#chatbox {
+  background-color: #191817; !important;
+    color: #b1b1b1;
+}
+
+#chatbox_messenger > form > table > tbody > tr > td {
+  background-color: #191817;
+    color: #b1b1b1;
+}
+
+
+.tab
+  {
+  background: url(http://i39.servimg.com/u/f39/16/01/65/00/tab_110.png);
+  color: #00000;
+  }
+
+.tab-titel {
+color: #000;
+text-shadow: 0 0 1px #ffffff;
+}
+a.forumlink,a.forumlink:link,a.forumlink:visited,a.forumlink:active
+{
+  color: #4A4A4A;
+text-shadow: 1px 1px 0px #ffffff;
+}
+
+.forum_contenu
+{
+  background-color: #383a3d;
+  border-left: 1px dotted #191817;
+  border-right: 1px dotted #191817;
+  border-bottom: 1px dotted #191817;
+  border-top: 5px solid #191817;
+}
+.beschreibung
+{
+  box-shadow: 1px 1px 1px #191817;
+  -moz-box-shadow: 1px 1px 1px #191817;
+  -htm-box-shadow: 1px 1px 1px #191817;
+  -webkit-box-shadow: 1px 1px 1px #191817;
+  -o-box-shadow: 1px 1px 1px #191817;
+}
+.description_contenu
+{
+  background-color: #191817;
+  color: #9c9c9c;
+}
+.unterforen
+{
+  background-color: #bfbfbf;
+  box-shadow: 1px 1px 1px #191817;
+  -moz-box-shadow: 1px 1px 1px #191817;
+  -htm-box-shadow: 1px 1px 1px #191817;
+  -webkit-box-shadow: 1px 1px 1px #191817;
+  -o-box-shadow: 1px 1px 1px #191817;
+}
+.stats_lastpost
+{
+  background-color: #bfbfbf;
+  box-shadow: 1px 1px 1px #191817;
+  -moz-box-shadow: 1px 1px 1px #191817;
+  -htm-box-shadow: 1px 1px 1px #191817;
+  -webkit-box-shadow: 1px 1px 1px #191817;
+  -o-box-shadow: 1px 1px 1px #191817;
+color:#4A4A4A;
+}
+
+
+
+/* WER IST ONLINE */
+.bloc_stat {
+background-color: #b1b1b1;
+color: #4A4A4A;
+border:1px solid #4A4A4A;
+}
+
+.bloc_gruppen {
+background-color: #b1b1b1;
+color: #4A4A4A;border:1px solid #4A4A4A;
+}
+
+.bloc_besucher {
+background-color: #b1b1b1;
+color: #4A4A4A;border:1px solid #4A4A4A;
+}
+
+/*** BESUCHERBOX ***/
+#kaboum span.gensmall {color: #9c9c9c;}
+
+/* MENÜ */
+#quicklinks ul a,
+#quicklinks ul a:link,
+#quicklinks ul a:visited {
+  color: #383a3d;
+}
+#quicklinks ul {
+  background: #bfbfbf;
+  color: #383a3d;
+}
+#quicklinks > ul > li {
+  border-left: 3px solid #688dad;
+  border-right: 3px solid #688dad;
+}
+#quicklinks > ul > li:hover {
+  border-left: 3px solid #688dad;
+}
+#quicklinks > ul > li:hover {
+  background: #383a3d;
+}
+/* UNTERMENÜS */
+#quicklinks ul ul li {
+  background: #bfbfbf;
+}
+#quicklinks ul ul li:hover {
+  background: #383a3d;
+}
+
+/* GENERAL */
+body
+{
+  background-image: url(http://wonderworlds.org/images/snow/snow-falling-pale-winter-background.jpg);
+}
+
+#fond_sombre
+{
+  background: url(http://img11.hostingpics.net/pics/971567fondsombre02.jpg);
+}
+
+
+#page-body {
+background-color: #bfbfbf;
+  border-right: 5px solid #212121;
+  border-left: 5px solid #212121;
+box-shadow: inset 0 0 0.5em #000000;
+-moz-box-shadow: inset 0 0 0.5em #000000;
+-o-box-shadow: inset 0 0 0.5em #000000;
+}
+
+
+
+/* BEITRÄGE */
+.scrollpost {
+    background-image: url(http://abload.de/img/2scrollpostgiutm.png),
+    url(http://abload.de/img/2scrollpostgiutm.png),
+    url(http://i18.servimg.com/u/f18/16/01/65/00/darksc11.png);
+    color: #b1b1b1;
+}
+
+/* CODE QUOTE SPOILER */
+.code {
+border: 2px solid #688dad;
+background-color: #575757;
+color: #b1b1b1;
+}
+
+.quote {
+background-color: #575757;
+color: #b1b1b1;
+border: 2px solid #688dad;
+}
+
+.spoiler_closed {
+color: #4A4A4A;
+text-decoration: none !important;
+text-shadow: none !important;
+background-color: #575757;
+border: 2px solid #688dad;
+}
+
+.spoiler_content {
+background-color: #383838;
+border: 2px solid #688dad;
+color: #b1b1b1;
+}
+
+/* ÜBERSCHRIFTEN */
+
+t3 {
+  color: #688dad;
+  text-shadow: 1px 1px 0px #000;
+  background: none repeat scroll 0 0 #444444;
+}
+
+u3 {
+  color: #ffffff;
+  text-shadow: 1px 1px 0px #000;
+}
+
+t2 {
+background:none repeat scroll 0 0 #688dad;
+color:#ffffff;
+text-shadow: 1px 1px 1px #000000;
+}
+
+t1 {
+text-shadow: #383a3d 1px 1px 1px;
+color: #688dad;
+}
+
+u1 {
+color: #ffffff;
+border-bottom: 1px dashed #326b99;
+  text-shadow: #383a3d 1px 1px 1px;
+}
+
+
+textbox {
+border-top: 2px solid #688dad;
+border-bottom: 2px solid #688dad;
+}
+
+.infobox {
+background-color: #212121;
+border-left: 5px solid #688dad;
+border-right: 5px solid #688dad;
+  color: #b1b1b1;
+}
+
+pplbox {
+background-color: #444444;
+border-left: 5px solid #688dad;
+border-right: 5px solid #688dad;
+border-bottom: 1px dashed #688dad;
+    color: #b1b1b1;
+}
+
+ppltitel {
+color: #688dad;
+text-shadow: 1px 1px 0px #ffffff; 
+border-bottom: 2px solid #688dad;
+}
+
+pplcontent {
+  color: #b1b1b1;
+}
+
+/* FARBEN DES EDITORS */
+.sceditor-container iframe, .sceditor-container textarea {background: none repeat scroll 0 0 #262626 !important;
+color: #BFBFBF !important}
+div.sceditor-toolbar {background: none repeat scroll 0 0 padding-box #262626 !important;}
+.sceditor-container {background: none repeat scroll 0 0 padding-box #262626 !important;}
+
+div.sceditor-group {background-color: #575757 !important;}
+
+.sceditor-button.active, .sceditor-button:active, .sceditor-button:hover {
+background-color: #2e2e2e !important;
+}
+
+#sceditor_smilies body, #sceditor_smilies body * {
+background-color: #262626;
+}
+
+/* BUTTONS */
+.mainoption,.liteoption,input.button{border:1px solid #5a96d1;}
+.mainoption:hover,.liteoption:hover,input.button:hover{color:#5a9ad1!important;}
+
+/* SLIDER */
+.csslider > .navigation label:after {
+  background: #568694;
+}
